@@ -1,5 +1,5 @@
 export const deletePost = (id) =>{
-    retunr{
+    return{
         type:'DELETE_POST',
         id
     }
